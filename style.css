@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    font-weight: bold;
+    text-align: center;
+    background-color: green;
+    color: white;
+}
+
+.ulist a{
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subheader {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
